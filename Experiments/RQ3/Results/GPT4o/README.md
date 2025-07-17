@@ -1,0 +1,23 @@
+# GPT4o Model Outputs
+
+
+## Structure
+```
+Experiments/RQ3/Results/GPT4o
+├── Results/
+│   └── ...
+├── GPT4o_Responses_RQ3_QandA_Test_Data_Joined.csv    
+├── GPT4o_Responses_RQ3_SA_Test_Data_Joined.csv     
+└── GPT4o_Responses_RQ3_TD_Test_Data_Joined.csv
+```
+
+## Contents
+- **GPT4o_Responses_RQ3_QandA_Test_Data_Joined.csv** - Responses produced by GPT4o for the Question & Answering test cases.
+
+- **GPT4o_Responses_RQ3_SA_Test_Data_Joined.csv** - Responses produced by GPT4o for the Sentiment Analysis test cases.
+
+- **GPT4o_Responses_RQ3_TD_Test_Data_Joined.csv** - Responses produced by GPT4o for the Toxicity Detection test cases.
+
+
+## Results Folder
+All results for the three intents using GPT4o.
