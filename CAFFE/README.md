@@ -5,10 +5,10 @@ This directory contains the Knowledge-Base data and the three steps of the CAFFE
 ## Structure
 Framework/
 ├── KnowledgeBase/
-│ ├── Knowledge_Base.csv # Extracted Knowledge Base
-│ └── Crows_Pairs.csv # Initial Dataset
+│   ├── Knowledge_Base.csv          # Extracted Knowledge Base
+│   └── Crows_Pairs.csv             # Initial Dataset
 │
-├── Step1-TestDataGenerator.ipynb # Step1 of theframework
+├── Step1-TestDataGenerator.ipynb   # Step1 of the framework
 ├── Step2-Example-LLMResponses.ipynb # Step2 of the framework
 └── Step3-ResponsesEvaluation.ipynb # Step3 of the framework
 
