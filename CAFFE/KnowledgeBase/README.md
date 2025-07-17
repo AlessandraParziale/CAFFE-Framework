@@ -5,7 +5,8 @@ This folder contains the original dataset and the knowledge base used in the CAF
 ## Contents
 - **Crows_Pairs.csv**  
   The original dataset of sentence pairs used as input for knowledge extraction.
-  _Source:_ [Link to original dataset](https://github.com/nyu-mll/crows-pairs/blob/master/data/crows_pairs_anonymized.csv)
+
+  [Link to original dataset](https://github.com/nyu-mll/crows-pairs/blob/master/data/crows_pairs_anonymized.csv)
 
 - **Knowledge_Base.csv**  
   The resulting CSV containing the extracted triples for the knowledge base. It includes two key columns:  
