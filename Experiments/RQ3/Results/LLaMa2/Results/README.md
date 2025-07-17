@@ -1,6 +1,6 @@
 # LLaMa2 Results
 
-This folder contains all detailed results of the LLaMA2 model for the three intents."
+This folder contains all detailed results of the LLaMA2 model for the three intents.
 
 ## Structure
 ```
