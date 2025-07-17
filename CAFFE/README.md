@@ -14,7 +14,7 @@ Framework/
 └── Step3-ResponsesEvaluation.ipynb # Step3 of the framework
 ```
 
-### Contents
+## Contents
 - **KnowledgeBase/**  
   Contains all CSV files that define the knowledge base used across the CAFFE:
   - **Knowledge_Base.csv**: the primary source of facts and templates used to generate test prompts  
@@ -28,5 +28,5 @@ Framework/
 
 --
 
-### Note
+## Note
 The names of the CSV files and the paths need to be changed and adapted to the specific situations.
