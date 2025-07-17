@@ -26,7 +26,6 @@ Framework/
 
 - **Step3-ResponsesEvaluation.ipynb** - A Colab notebook that ingests the collected responses, applies evaluation metrics, and compiles an automated test report.
 
---
 
 ## Note
 The names of the CSV files and the paths need to be changed and adapted to the specific situations.
