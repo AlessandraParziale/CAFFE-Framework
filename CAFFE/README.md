@@ -30,7 +30,7 @@ Framework/
 ## Note
 The names of the CSV files and the paths need to be changed and adapted to the specific situations.
 
-## Step 2 Prompt Generation
+## Prompt Generation - Step 2 
 For Step 2 we generate paired prompts from each Knowledge Base entry using the following final prompt template.
 
 ### Final Prompt 
