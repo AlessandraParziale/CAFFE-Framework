@@ -12,9 +12,9 @@ Experiments/RQ3/Results/GPT4o
 ```
 
 ## Contents
-- **GPT4o_Responses_RQ3_QandA_Test_Data_Joined_Part1.csv** - Responses produced by GPT4o for the Question & Answering test cases [Part1].
+- **GPT4o_Responses_RQ3_QandA_Test_Data_Joined_Part1.csv** - Responses produced by GPT4o for the Question & Answering test cases [Part 1].
 
-- **GPT4o_Responses_RQ3_QandA_Test_Data_Joined_Part2.csv** - Responses produced by GPT4o for the Question & Answering test cases [Part2].
+- **GPT4o_Responses_RQ3_QandA_Test_Data_Joined_Part2.csv** - Responses produced by GPT4o for the Question & Answering test cases [Part 2].
 
 
 - **GPT4o_Responses_RQ3_SA_Test_Data_Joined.csv** - Responses produced by GPT4o for the Sentiment Analysis test cases.
