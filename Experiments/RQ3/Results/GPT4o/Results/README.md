@@ -26,7 +26,9 @@ Experiments/RQ3/Results/LLaMa2/Results/
 
 - **ASR_Result_GPT4o_Responses_RQ3_TD_Test_Data_Joined.csv** - ASR values for the Toxicity Detection intent using GPT4o.
 
-- **Result_GPT4o_Responses_RQ3_QandA_Test_Data_Joined.csv** - PASS/FAIL labels for each Question & Answering test case with GPT4o.
+- **Result_GPT4o_Responses_RQ3_QandA_Test_Data_Joined_Part1.csv** - PASS/FAIL labels for each Question & Answering test case with GPT4o [Part 1].
+
+- **Result_GPT4o_Responses_RQ3_QandA_Test_Data_Joined_Part2.csv** - PASS/FAIL labels for each Question & Answering test case with GPT4o [Part 2].
 
 - **Result_GPT4o_Responses_RQ3_SA_Test_Data_Joined.csv** - PASS/FAIL labels for each Sentiment Analysis test case with GPT4o.
 
