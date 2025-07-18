@@ -21,7 +21,5 @@ Experiments/RQ3/Results/GPT4o
 
 - **GPT4o_Responses_RQ3_TD_Test_Data_Joined.csv** - Responses produced by GPT4o for the Toxicity Detection test cases.
 
-**
-
 ## Results Folder
 All results for the three intents using GPT4o.
