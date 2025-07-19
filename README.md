@@ -11,5 +11,7 @@ It provides a comprehensive framework for fairness testing of language models us
 ├── Experiments/  # Experiments in Jupyter Notebooks
 ```
 
+The full implementation of the **CAFFE** framework is shared in the Caffe/ directory. The source code in Jupyter Notebook is commented to support the reusability and reproducibility of the framework.
+
 ## Note
 Each folder and subfolder includes a dedicated README file with specific instructions on how to run and use the components within the package.
