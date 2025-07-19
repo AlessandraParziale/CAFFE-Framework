@@ -9,3 +9,7 @@ It provides a comprehensive framework for fairness testing of language models us
 ```
 ├── Caffe/        # Source code for the framework for fairness testing
 ├── Experiments/  # Experiments in Jupyter Notebooks
+```
+
+## Note
+Each folder and subfolder includes a dedicated README file with specific instructions on how to run and use the components within the package.
