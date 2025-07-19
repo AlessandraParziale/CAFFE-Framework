@@ -1,6 +1,6 @@
 # RQ2: Semantic Similarity Evaluation (Steps 2 and 3 of CAFFE)
 
-This folder contains CSV files used in the evaluation of semantic similarity metrics in the context of Research Question 2 (RQ2) of the CAFFE framework.
+This folder contains CSV files used in the evaluation of semantic similarity metrics and additional analyses conducted in the context of Research Question 2 (RQ2) of the CAFFE framework.
 
 ## Structure
 ```
