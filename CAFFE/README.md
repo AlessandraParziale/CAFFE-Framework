@@ -20,11 +20,11 @@ Framework/
   - **Knowledge_Base.csv**: the primary source of facts and templates used to generate test prompts  
   - **Crows_Pairs.csv**: the original dataset used for the extraction
 
-- **Step1-TestDataGenerator.ipynb** - A Jupyter Notebooks that reads the knowledge base and produces a suite of prompts to test an LLM’s behaviors.
+- **Step1-TestDataGenerator.ipynb** - A Jupyter Notebook that reads the knowledge base and produces a suite of prompts to test an LLM’s behaviors.
 
-- **Step2-Example-LLMResponses.ipynb** - A Jupyter Notebooks that demonstrates an example of the human‑in‑the‑loop procedure to collect LLM outputs for the prompts produced in Step 1.  
+- **Step2-Example-LLMResponses.ipynb** - A Jupyter Notebook that demonstrates an example of the human‑in‑the‑loop procedure to collect LLM outputs for the prompts produced in Step 1.  
 
-- **Step3-ResponsesEvaluation.ipynb** - A Jupyter Notebooks that ingests the collected responses, applies evaluation metrics, and compiles an automated test report.
+- **Step3-ResponsesEvaluation.ipynb** - A Jupyter Notebook that ingests the collected responses, applies evaluation metrics, and compiles an automated test report.
 
 
 ## Note
