@@ -15,13 +15,13 @@ Experiments/
 ```
 
 ## Contents
-- **RQ1** - Contains the output files generated during the evaluation of the first Research Question.
+- **RQ1** - Contains only the output artifacts generated during the evaluation of the first Research Question.
 
-- **RQ2** - Contains the output files generated during the evaluation of the second Research Question.
+- **RQ2** - Contains only the output artifacts generated during the evaluation of the second Research Question.
 
-- **RQ3** - Contains the output files generated during the evaluation of the third Research Question.
+- **RQ3** - Contains only the output artifacts generated during the evaluation of the third Research Question.
 
-- **Experiments_ResearchQuestions.ipynb** - Executes the evaluation for each Research Question (RQ1, RQ2, and RQ3).
+- **Experiments_ResearchQuestions.ipynb** - Is the main Jupyter Notebook that contains the code used for the experiments across all RQs, along with comments to facilitate understanding and reproducibility.
 
 
 ## Note
