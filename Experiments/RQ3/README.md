@@ -27,5 +27,5 @@ Experiments/RQ3/
 - **RQ3_QandA_Test_Data.csv**  - Prompts filtered for the **Question & Answering** intent.
   
 
-## Results Folder
-All results used to evaluate the overall effectiveness of the CAFFE framework.
+## Results Folders
+- A folder for each LLM (GPT/LLAMA/MISTRAL) containing the individual results used to evaluate the overall effectiveness of the CAFFE framework.

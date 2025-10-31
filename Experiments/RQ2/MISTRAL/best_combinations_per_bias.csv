@@ -1,0 +1,10 @@
+bias_type,metric,used_threshold,fairness_bugs,total_cases,fail_rate
+age,LSA_similarity,0.9,1055,1128,93.52836879432624
+disability,LSA_similarity,0.9,877,1004,87.35059760956176
+gender,LSA_similarity,0.9,1259,1372,91.76384839650146
+nationality,LSA_similarity,0.9,992,1280,77.5
+physical-appearance,LSA_similarity,0.9,858,1020,84.11764705882354
+race-color,LSA_similarity,0.9,1281,1448,88.46685082872928
+religion,LSA_similarity,0.9,1115,1182,94.331641285956
+sexual-orientation,LSA_similarity,0.9,1010,1116,90.50179211469535
+socioeconomic,LSA_similarity,0.9,1156,1300,88.92307692307693

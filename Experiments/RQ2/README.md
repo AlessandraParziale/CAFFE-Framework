@@ -23,6 +23,8 @@ Experiments/RQ2/
 
 - **RQ2_Sampled_Prompts.csv** - Contains the sample of test cases selected for evaluation in RQ2.
 
+Each folders (GPT/LLAMA/MISTRAL) contains:
+
 - **RQ2_Responses.csv** - Contains the LLM responses to all the sampled test cases.
 
 - **RQ2_Responses_with_similarity.csv** - Contains the LLM responses to all the test cases sampled alongside results for the three (BERT cosine similarity, LSA, and LDA) similarity metrics for each.
