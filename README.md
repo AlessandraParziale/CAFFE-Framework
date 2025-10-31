@@ -9,7 +9,7 @@ It provides a comprehensive framework for fairness testing of language models us
 The repository is organized as follows:
 
 ```
-├── 📁 **Caffe**                      # Source code for the framework for fairness testing
+├── 📁 Caffe                      # Source code for the framework for fairness testing
     ├── 📁 KnowledgeBase
         ├── 📄 Crows_Pairs.csv
         ├── 📄 Knowledge_Base.csv
@@ -18,7 +18,7 @@ The repository is organized as follows:
     ├── 📄 Step1-TestDataGenerator.ipynb
     ├── 📄 Step2(Example)-LLMResponsesGeneration.ipynb
     ├── 📄 Step3-ResponsesEvaluation.ipynb
-├── 📁 **Experiments**                    # Experiments in Jupyter Notebooks
+├── 📁 Experiments                    # Experiments in Jupyter Notebooks
     ├── 📁 RQ1
         ├── 📄 README.md
         ├── 📄 RQ1_All_Generated_Prompts.csv
