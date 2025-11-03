@@ -11,7 +11,6 @@ The repository is organized into **two main folders**:
 1. **/Caffe** — this folder contains the core components of the CAFFE framework, including the Knowledge Base and a set of notebooks representing the steps of the framework.
 2. **/Experiments** - This folder contains all experiments and results obtained using the CAFFE framework. It is organized by Research Questions (RQ1, RQ2, and RQ3) and includes prompts, model outputs, evaluation metrics, and visualizations.
 
-## Note
 Each folder and subfolder includes a dedicated **README** file with specific instructions on how to run and use the components within the package.
 
 ```
